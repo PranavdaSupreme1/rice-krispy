@@ -36,4 +36,4 @@ FOR THE NERDS (varies by setup, no fixed command)
 - LKMS — Where the kernel itself gets built
 - IRC — The original underground, still transmitting
 
-**The menu's Canva link can be found here: ** https://canva.link/rzwk4ytgc8wq38v
+**The menu's Canva link can be found here:** https://canva.link/rzwk4ytgc8wq38v
